@@ -13,3 +13,6 @@
       Want to contribute with some hackathon projects ? Awesome! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing.
     </i>
   </p>
+  
+  ## Projects
+  
