@@ -16,4 +16,10 @@
   </p>
   
   ## Projects
+   
+  [AI Voice Recognition app](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup) - AI Voice Recognition app
+  
+  [Create creenshots from website URLs](https://sanvi.hashnode.dev/code-an-app-that-will-take-screenshots-from-website-urls) - Create creenshots from website URLs
+  
+  [Custom QR Codes](https://divyaxavier.hashnode.dev/code-an-app-that-could-create-custom-qr-codes-for-free-my-christmas-hackathon-project) - Create custom QR Codes
   
