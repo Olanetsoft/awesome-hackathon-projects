@@ -25,6 +25,7 @@
   [Awesome Tech blogs Platform](https://denic.hashnode.dev/awesome-tech-blogs-platform) - Awesome Tech blogs Platform
 
   [App which creates beautiful websites without writing a single line of code](https://articles.hashnode.dev/create-an-app-which-creates-beautiful-websites-without-writing-a-single-line-of-code-christmas-hackathon-project?guid=e4d7c4b2-b168-43fd-b619-4423518c5f87&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - App which creates beautiful websites without writing a single line of code
+  [Calmly - A Simple Relaxation App](https://geeky-chakri.hashnode.dev/calmly-christmas-hackathon-project-1) - Calmly - A Simple Relaxation App
   
   [Cat Gallery](https://movi.hashnode.dev/my-first-react-project-hashnodes-hackathon-ckjciiawx0dwqkus1ajnvbdev) - Cat gallery
   
@@ -46,10 +47,14 @@
    
   [Productivity App](https://blog.rutikwankhade.dev/how-i-built-my-own-productivity-app) - Productivity App
   
+  [Publish Articles in Zen Mode Using the Hashnode CLI](https://osi.codes/publish-articles-in-zen-mode-using-the-hashnode-cli) - Publish Articles in Zen Mode Using the Hashnode CLI
+
   [Random Color Palette Generator](https://yogeshchavan.hashnode.dev/random-color-palette-generator-with-copy-to-clipboard-functionality) - Random Color Palette Generator with Copy to Clipboard Functionality
   
   [React Chrome Extension](https://milan090.hashnode.dev/how-i-made-a-react-chrome-extension-that-made-browsing-faster) - React Chrome Extension
-    
+  
+  [Repositree - Github Repository Explorer](https://saudchougle.hashnode.dev/repositree-github-repository-explorer) - Repositree - Github Repository Explorer
+
   [ResumeCraft](https://codevickk.hashnode.dev/creating-resumecraft-an-application-that-helps-you-create-resumes-ckjescfzx00u4h4s12n38azuk) - Creating resumeCraft - An application that helps you create resumes.
   
   [Santa Meme And download](https://harshilparmar.hashnode.dev/create-santa-meme-and-download) - Santa Meme And download
