@@ -17,7 +17,9 @@
   </p>
   
   # Projects
-   
+  
+  [A Twitter Bot For Hashnode](https://blog.yuvv.xyz/hashbot-a-twitter-bot-for-hashnode-articles-christmashackathon) - Hashbot: A Twitter Bot For Hashnode
+
   [AI Voice Recognition app](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup) - AI Voice Recognition app
   
   [Awesome Tech blogs Platform](https://denic.hashnode.dev/awesome-tech-blogs-platform) - Awesome Tech blogs Platform
@@ -29,7 +31,9 @@
   [Create creenshots from website URLs](https://sanvi.hashnode.dev/code-an-app-that-will-take-screenshots-from-website-urls) - Create creenshots from website URLs
   
   [Christmas greeting using CSS Animations](https://coderwhodreams.hashnode.dev/learn-how-to-build-christmas-greeting-using-css-animations) - Christmas greeting using CSS Animations
-   
+  
+  [Christmas Music Playlist](https://brookcodez.hashnode.dev/christmas-music-playlist-christmas-hackathon-project) - Christmas Music Playlist
+  
   [Custom QR Codes](https://divyaxavier.hashnode.dev/code-an-app-that-could-create-custom-qr-codes-for-free-my-christmas-hackathon-project) - Create custom QR Codes
   
   [Focused Breathing Animation with CSS Animations & Keyframes](https://shannoncrabill.hashnode.dev/building-a-focused-breathing-animation-with-css-animations-and-keyframes-ckjev8kfv0142g3s11ihlffo7) - Focused Breathing Animation with CSS Animations & Keyframes
@@ -51,6 +55,8 @@
   [Santa Meme And download](https://harshilparmar.hashnode.dev/create-santa-meme-and-download) - Santa Meme And download
   
   [Text summarization browser extension and web app](https://manan.hashnode.dev/nuggets-text-summary) - Text summarization browser extension and web app
+
+  [Ticking Clock With REACT](https://blog.idrisolubisi.com/how-to-build-a-ticking-clock-with-react-1) - How to Build a Ticking Clock With REACT
 
   [Web Scraping Application Using Laravel](https://folafola.hashnode.dev/creating-a-web-scraping-application-using-laravel?guid=c4aa1761-c7aa-459c-9c6b-00e80f2110db&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - Web Scraping Application Using Laravel
  
