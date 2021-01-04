@@ -25,6 +25,7 @@
   [Awesome Tech blogs Platform](https://denic.hashnode.dev/awesome-tech-blogs-platform) - Awesome Tech blogs Platform
 
   [App which creates beautiful websites without writing a single line of code](https://articles.hashnode.dev/create-an-app-which-creates-beautiful-websites-without-writing-a-single-line-of-code-christmas-hackathon-project?guid=e4d7c4b2-b168-43fd-b619-4423518c5f87&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - App which creates beautiful websites without writing a single line of code
+  
   [Calmly - A Simple Relaxation App](https://geeky-chakri.hashnode.dev/calmly-christmas-hackathon-project-1) - Calmly - A Simple Relaxation App
   
   [Cat Gallery](https://movi.hashnode.dev/my-first-react-project-hashnodes-hackathon-ckjciiawx0dwqkus1ajnvbdev) - Cat gallery
