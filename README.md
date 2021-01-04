@@ -19,6 +19,8 @@
   # Projects
   
   [A Twitter Bot For Hashnode](https://blog.yuvv.xyz/hashbot-a-twitter-bot-for-hashnode-articles-christmashackathon) - Hashbot: A Twitter Bot For Hashnode
+  
+  [Autocomplete your CloudFormation Resources in VS Code](https://dannys.cloud/autocomplete-cloudformation-resources-vs-code) - Autocomplete your CloudFormation Resources in VS Code
 
   [AI Voice Recognition app](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup) - AI Voice Recognition app
   
@@ -36,8 +38,12 @@
   
   [Christmas Music Playlist](https://brookcodez.hashnode.dev/christmas-music-playlist-christmas-hackathon-project) - Christmas Music Playlist
   
+  [Chrome extension to publish your Hashnode article to Dev.to](https://crunchcrunch.me/chrome-extension-to-publish-your-hashnode-article-to-devto) - Chrome extension to publish your Hashnode article to Dev.to
+
   [Custom QR Codes](https://divyaxavier.hashnode.dev/code-an-app-that-could-create-custom-qr-codes-for-free-my-christmas-hackathon-project) - Create custom QR Codes
   
+  [E-voting with Qrcode](https://tijan.hashnode.dev/e-voting-with-qrcode) - E-voting with Qrcode
+
   [Focused Breathing Animation with CSS Animations & Keyframes](https://shannoncrabill.hashnode.dev/building-a-focused-breathing-animation-with-css-animations-and-keyframes-ckjev8kfv0142g3s11ihlffo7) - Focused Breathing Animation with CSS Animations & Keyframes
    
   [Instagram Filter](https://bashwoman.com/make-your-first-instagram-filter?guid=88ebd93d-9807-478a-941d-15816a860006&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - Create your instagram filter
@@ -54,6 +60,8 @@
   
   [React Chrome Extension](https://milan090.hashnode.dev/how-i-made-a-react-chrome-extension-that-made-browsing-faster) - React Chrome Extension
   
+  [React & Bootstrap Starter Template](https://chrisdev.hashnode.dev/react-and-bootstrap-starter-template) - React & Bootstrap Starter Template
+  
   [Repositree - Github Repository Explorer](https://saudchougle.hashnode.dev/repositree-github-repository-explorer) - Repositree - Github Repository Explorer
 
   [ResumeCraft](https://codevickk.hashnode.dev/creating-resumecraft-an-application-that-helps-you-create-resumes-ckjescfzx00u4h4s12n38azuk) - Creating resumeCraft - An application that helps you create resumes.
@@ -63,6 +71,8 @@
   [Text summarization browser extension and web app](https://manan.hashnode.dev/nuggets-text-summary) - Text summarization browser extension and web app
 
   [Ticking Clock With REACT](https://blog.idrisolubisi.com/how-to-build-a-ticking-clock-with-react-1) - How to Build a Ticking Clock With REACT
+
+  [Trading Bot](https://lo-victoria.com/how-i-built-my-first-trading-bot-for-hashnodes-hackathon) - Trading Bot
 
   [Web Scraping Application Using Laravel](https://folafola.hashnode.dev/creating-a-web-scraping-application-using-laravel?guid=c4aa1761-c7aa-459c-9c6b-00e80f2110db&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - Web Scraping Application Using Laravel
  
