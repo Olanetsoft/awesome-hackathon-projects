@@ -25,6 +25,8 @@
   [AI Voice Recognition app](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup) - AI Voice Recognition app
   
   [Awesome Tech blogs Platform](https://denic.hashnode.dev/awesome-tech-blogs-platform) - Awesome Tech blogs Platform
+  
+  [Awesome Photoshop in 6 Days](https://emmorais.hashnode.dev/edite-your-new-photoshop) - How I Built My Own and Awesome Photoshop in 6 Days
 
   [App which creates beautiful websites without writing a single line of code](https://articles.hashnode.dev/create-an-app-which-creates-beautiful-websites-without-writing-a-single-line-of-code-christmas-hackathon-project?guid=e4d7c4b2-b168-43fd-b619-4423518c5f87&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - App which creates beautiful websites without writing a single line of code
   
@@ -52,7 +54,11 @@
   
   [Image Processing - Separating RGB pixels](https://msameeruddin.hashnode.dev/image-processing-separating-rgb-pixels) - Image Processing - Separating RGB pixels
    
+  [Magic Painter](https://codeadrian.hashnode.dev/magic-painter-christmas-hackathon-project) - Magic Painter - Christmas hackathon project
+  
   [Productivity App](https://blog.rutikwankhade.dev/how-i-built-my-own-productivity-app) - Productivity App
+  
+  [Princess Finder using React, ml5.js, and Teachable Machine Learning](https://blog.greenroots.info/princess-finder-using-react-ml5js-and-teachable-machine-learning-ckj8288ch03gew7s1ht1u3pmu) - Princess Finder using React, ml5.js, and Teachable Machine Learning
   
   [Publish Articles in Zen Mode Using the Hashnode CLI](https://osi.codes/publish-articles-in-zen-mode-using-the-hashnode-cli) - Publish Articles in Zen Mode Using the Hashnode CLI
 
