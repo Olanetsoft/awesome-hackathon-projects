@@ -7,7 +7,7 @@
     <b>
       This is a curated list of awesome hackathon project.<br/>
       Developers from different parts of the world have developed a lot of amazing projects during the hackathon on their Hashnode powered blogs.<br/>
-      Projects gets updated daily
+      Projects gets updated daily.
     </b>
   </p>
   <p>
