@@ -78,7 +78,7 @@
 
   [DeepLink](https://blog.hrithwik.me/i-created-a-deep-linking-tech-for-youtube-influencers-and-marketeers) - Deep Linking Tech for YouTube Influencers and Marketeers
 
-  [DomainWatch](https://blog.zack.computer/challenging-myself-to-make-a-product-in-72-hours-with-clerk-redwood) - DomainWatch is a website where you can search for available domain names, add them to a favorites list, get updates via email on ones that get bought or become available, compare prices across multiple registrars, and (when you're ready to buy) link out to the cheapest registrar to make your purchase.
+  [DomainWatch](https://blog.zack.computer/challenging-myself-to-make-a-product-in-72-hours-with-clerk-redwood) - DomainWatch is a website where you can search for available domain names, add them to a favorites list, get updates via email.
   
   [Easy Paste](https://blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes) - Easy Pastes - Easiest way to create and share code pastes
 
