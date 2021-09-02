@@ -42,6 +42,8 @@
   
   [Chrome extension to publish your Hashnode article to Dev.to](https://crunchcrunch.me/chrome-extension-to-publish-your-hashnode-article-to-devto) - Chrome extension to publish your Hashnode article to Dev.to
 
+  [Copii](https://lalit2005.hashnode.dev/copii) - Copii. Ready to use fully functional copy button for GitHub README files
+  
   [Custom QR Codes](https://divyaxavier.hashnode.dev/code-an-app-that-could-create-custom-qr-codes-for-free-my-christmas-hackathon-project) - Create custom QR Codes
   
   [Devcover](https://blog.jrgarciadev.com/devcover-easiest-way-to-generate-a-developer-portfolio) - Devcover - Easiest way to generate a developer portfolio
@@ -81,6 +83,8 @@
   [ResumeCraft](https://codevickk.hashnode.dev/creating-resumecraft-an-application-that-helps-you-create-resumes-ckjescfzx00u4h4s12n38azuk) - Creating resumeCraft - An application that helps you create resumes.
   
   [Santa Meme And download](https://harshilparmar.hashnode.dev/create-santa-meme-and-download) - Santa Meme And download
+  
+  [Shortcut search](https://blog.alyssaholland.me/keyboard-shortcut-search) - Shortcut Search: Quickly Find a Shortcut with the Press of a Key
   
   [Site Sheet](https://blog.gauravtewari.xyz/sitesheet-convert-google-sheet-into-api-or-website-in-a-snap) - SiteSheet - Convert Google Sheet into API or Website in a Snap
   
