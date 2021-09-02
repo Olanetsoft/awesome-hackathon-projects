@@ -44,9 +44,17 @@
 
   [Custom QR Codes](https://divyaxavier.hashnode.dev/code-an-app-that-could-create-custom-qr-codes-for-free-my-christmas-hackathon-project) - Create custom QR Codes
   
+  [Devcover](https://blog.jrgarciadev.com/devcover-easiest-way-to-generate-a-developer-portfolio) - Devcover - Easiest way to generate a developer portfolio
+  
   [E-voting with Qrcode](https://tijan.hashnode.dev/e-voting-with-qrcode) - E-voting with Qrcode
+  
+  [EBB](https://liyasthomas.hashnode.dev/ebb-feel-life-again-from-a-new-perspective-ckk5ac73708f6hls10uoj1nc5) - ebb - Feel life again from a new perspective
 
+  [Litic](https://learn.techseo.blog/litic) - Litic - Analyse your web project and get insights about SEO, accessibility, security, and best practices
+  
   [Focused Breathing Animation with CSS Animations & Keyframes](https://shannoncrabill.hashnode.dev/building-a-focused-breathing-animation-with-css-animations-and-keyframes-ckjev8kfv0142g3s11ihlffo7) - Focused Breathing Animation with CSS Animations & Keyframes
+  
+  [Flow](https://geeky-chakri.hashnode.dev/introducing-flow-the-minimalist-productivity-app) - Flow - The Minimalist Productivity App
    
   [Instagram Filter](https://bashwoman.com/make-your-first-instagram-filter?guid=88ebd93d-9807-478a-941d-15816a860006&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - Create your instagram filter
   
@@ -74,11 +82,15 @@
   
   [Santa Meme And download](https://harshilparmar.hashnode.dev/create-santa-meme-and-download) - Santa Meme And download
   
+  [Site Sheet](https://blog.gauravtewari.xyz/sitesheet-convert-google-sheet-into-api-or-website-in-a-snap) - SiteSheet - Convert Google Sheet into API or Website in a Snap
+  
   [Text summarization browser extension and web app](https://manan.hashnode.dev/nuggets-text-summary) - Text summarization browser extension and web app
 
   [Ticking Clock With REACT](https://blog.idrisolubisi.com/how-to-build-a-ticking-clock-with-react-1) - How to Build a Ticking Clock With REACT
 
   [Trading Bot](https://lo-victoria.com/how-i-built-my-first-trading-bot-for-hashnodes-hackathon) - Trading Bot
 
+  [VSCode Vercel](https://frenco.hashnode.dev/vscode-vercel-an-extension-for-your-favorite-code-editor) - VSCode Vercel - an extension for your favorite code editor
+  
   [Web Scraping Application Using Laravel](https://folafola.hashnode.dev/creating-a-web-scraping-application-using-laravel?guid=c4aa1761-c7aa-459c-9c6b-00e80f2110db&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - Web Scraping Application Using Laravel
  
