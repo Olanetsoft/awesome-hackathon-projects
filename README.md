@@ -50,6 +50,8 @@
   
   [Create creenshots from website URLs](https://sanvi.hashnode.dev/code-an-app-that-will-take-screenshots-from-website-urls) - Create creenshots from website URLs
   
+  [Chabotish](https://blog.abhinavrajesh.xyz/introducing-chatbotish) - Adding Feedback, FAQ, Bug report, Feature request to your website made easy
+  
   [ChatCube](https://avneesh0612.hashnode.dev/how-i-built-chatcube-with-nextjs-tailwindcss-clerk-and-firebase-and-a-walkthrough-of-the-app) - ChatCube
 
   [Christmas greeting using CSS Animations](https://coderwhodreams.hashnode.dev/learn-how-to-build-christmas-greeting-using-css-animations) - Christmas greeting using CSS Animations
@@ -122,17 +124,27 @@
   
   [Image Processing - Separating RGB pixels](https://msameeruddin.hashnode.dev/image-processing-separating-rgb-pixels) - Image Processing: Separating RGB pixels
 
+  [Kuberam](https://blog.rohitjakhar.me/kuberam-jetpack-app) - Manage all your transactions
+
+  [Jekyll](https://genicsblog.com/introducing-jekyllex-android-app) - The easiest way to manage a Jekyll blog from an Android device
+
   [Litic](https://learn.techseo.blog/litic) - Litic: Analyse your web project and get insights about SEO, accessibility, security, and best practices
 
   [Loudrr](https://logeekal.hashnode.dev/introducing-loudrr-not-just-another-commenting-engine) - Loudrr: Not Just Another Commenting Engine
 
   [Magic Painter](https://codeadrian.hashnode.dev/magic-painter-christmas-hackathon-project) - Magic Painter: Christmas hackathon project
 
-  [Making Ski Trips](https://jmh.hashnode.dev/making-ski-trips-safer-with-real-time-data) - Making Ski Trips Safer With Real-Time Data.
-
   [MiniCodeCamp](https://geeky-chakri.hashnode.dev/introducing-minicodecamp-a-free-online-mini-coding-bootcamp) - MiniCodeCamp: A free online mini coding bootcamp
 
+  [Making Ski Trips](https://jmh.hashnode.dev/making-ski-trips-safer-with-real-time-data) - Making Ski Trips Safer With Real-Time Data.
+
+  [Mapify](https://blog.theashishmaurya.me/introducing-mapify-your-solution-to-all-your-node-based-content) - Your solution to all your Node-based content
+  
+  [MeowForms](https://blog.gauravtewari.xyz/introducing-meowforms-build-custom-forms-with-no-backend-code-for-free-my-first-saas-product) - Build Custom forms with no backend code for free
+
   [Noteli](https://sahilpabale.me/introducing-noteli-the-note-taking-cli-tool) - The CLI Tool to Start Taking Notes with Auth0 Security🚀
+
+  [Opentek](https://anirudhpanda.hashnode.dev/introducing-opentek) - Bye! Bye! to all the tiring Google Searches
 
   [OS Resume](https://vishwajeetraj11.hashnode.dev/introducing-os-resume-oversimplified-resume-builder) - Introducing OS Resume
 
@@ -140,9 +152,13 @@
 
   [Pagely](https://lalit2005.hashnode.dev/pagely) - Pagely: Launch SEO friendly, blazing fast websites from Notion,Google Sheets, GitHub, Airtable with Pagely
   
-  [Productivity App](https://blog.rutikwankhade.dev/how-i-built-my-own-productivity-app) - Productivity App
+  [Peek](https://blog.yuvgeek.tech/introducing-peek-place-to-share-and-gain-knowledge-with-highly-secured-video-conferencing-auth0-webrtc-angular) - Place to share & gain knowledge with highly secured video conferencing (Auth0 + WebRTC + Angular)
   
   [Princess Finder using React, ml5.js, and Teachable Machine Learning](https://blog.greenroots.info/princess-finder-using-react-ml5js-and-teachable-machine-learning-ckj8288ch03gew7s1ht1u3pmu) - Princess Finder using React, ml5.js, and Teachable Machine Learning
+  
+  [Productivity App](https://blog.rutikwankhade.dev/how-i-built-my-own-productivity-app) - Productivity App
+  
+  [Product Board](https://vishwajeetraj11.hashnode.dev/introducing-product-board-a-project-management-platform) - A Project Management Platform 
   
   [Popcorn](https://natalie.hashnode.dev/popcorn) - A social media app for shows 📺 
   
@@ -173,6 +189,10 @@
   [Static Shield](https://lalit2005.hashnode.dev/staticshield) - StaticShield🛡: Password protect a website in less than 2 mins
 
   [Storycruise](https://aditya.hashnode.dev/storycruise-like-storybook-but-incredibly-fast-ckkb9ljbf06p6vas10kav5o0d) - Storycruise: Like Storybook but incredibly fast
+  
+  [Sturmglas](https://winnekes.hashnode.dev/say-hello-to-sturmglas-your-mental-weather-tracker) - Your Mental Weather Tracker
+  
+  [Styler](https://saviomartin.com/styler) - The Next Generation CSS Builder in the Web for your Hashnode Blog
 
   [Taskify](https://vaibhav2002.hashnode.dev/taskify-an-app-to-manage-your-daily-tasks-and-boost-your-productivity-harperdb-hackathon) - Taskify: An app to manage your daily tasks and boost your productivity
   
