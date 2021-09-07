@@ -63,6 +63,8 @@
   [ConfCube](https://yogeshyadav.hashnode.dev/confcube-virtual-tech-events-social-network) - ConfCube: Virtual Tech Event's Social Network
 
   [Copii](https://lalit2005.hashnode.dev/copii) - Copii: Ready to use fully functional copy button for GitHub README files
+  
+  [Compito](https://blog.sreyaj.dev/compito-project-management-app-angular-nestjs-auth0) - A project management app built using Angular, NestJs & Auth0
 
   [ConnectEm](https://piyushsinha.tech/connectem-your-one-stop-to-simple-daily-meeting-scheduler) - ConnectEm: Your one stop to simple Daily Meeting scheduler
   
@@ -103,6 +105,8 @@
   [Goal Vine](https://yuvaraj.hashnode.dev/introducing-goals-vine-tracks-your-goals-and-reminds-you-to-convert-them-into-reality) - Introducing Goals Vine
 
   [Gradient King](https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients) - Introducing Gradient King: Never again run out of gradients! 🌈
+  
+  [Hashnode to Twitter](https://geekysrm.hashnode.dev/introducing-hashnode-to-twitter) - Post bite-sized tweets of your Hashnode blog post to increase reach
 
   [HandeeSpace](https://notesbypaul.hashnode.dev/introducing-handeespace-the-uber-for-service-providers) - HandeeSpace: The "Uber" For Service Providers
 
@@ -128,6 +132,8 @@
 
   [MiniCodeCamp](https://geeky-chakri.hashnode.dev/introducing-minicodecamp-a-free-online-mini-coding-bootcamp) - MiniCodeCamp: A free online mini coding bootcamp
 
+  [Noteli](https://sahilpabale.me/introducing-noteli-the-note-taking-cli-tool) - The CLI Tool to Start Taking Notes with Auth0 Security🚀
+
   [OS Resume](https://vishwajeetraj11.hashnode.dev/introducing-os-resume-oversimplified-resume-builder) - Introducing OS Resume
 
   [Quizzon](https://rohitjakhar.hashnode.dev/quizzon-harperdb-hackathon) - QuizZon: Create and play unlimited quizzes free
@@ -137,6 +143,10 @@
   [Productivity App](https://blog.rutikwankhade.dev/how-i-built-my-own-productivity-app) - Productivity App
   
   [Princess Finder using React, ml5.js, and Teachable Machine Learning](https://blog.greenroots.info/princess-finder-using-react-ml5js-and-teachable-machine-learning-ckj8288ch03gew7s1ht1u3pmu) - Princess Finder using React, ml5.js, and Teachable Machine Learning
+  
+  [Popcorn](https://natalie.hashnode.dev/popcorn) - A social media app for shows 📺 
+  
+  [Pocket Feed](https://geeky-chakri.hashnode.dev/introducing-pocket-feed-the-one-stop-shop-for-content-you-love) - The one-stop shop for content you love 
   
   [Publish Articles in Zen Mode Using the Hashnode CLI](https://osi.codes/publish-articles-in-zen-mode-using-the-hashnode-cli) - Publish Articles in Zen Mode Using the Hashnode CLI
 
