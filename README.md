@@ -202,8 +202,6 @@
 
   [Techie Jargon](https://blog.oshogunle.com/techie-jargon-browse-technical-terms-for-definition-cklo1jv4x03608us12yta227b) - Techie Jargon: Browse Technical Terms for Definition
 
-  [Ticking Clock With REACT](https://blog.idrisolubisi.com/how-to-build-a-ticking-clock-with-react-1) - How to Build a Ticking Clock With REACT
-
   [Trading Bot](https://lo-victoria.com/how-i-built-my-first-trading-bot-for-hashnodes-hackathon) - Trading Bot
 
   [Try Shape](https://blog.greenroots.info/introducing-tryshape-give-your-creativity-a-shape) - Introducing TryShape: Give Your Creativity a Shape
