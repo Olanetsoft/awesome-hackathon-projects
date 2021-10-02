@@ -20,11 +20,9 @@
   
 # Projects
   
-  [A Twitter Bot For Hashnode](https://blog.yuvv.xyz/hashbot-a-twitter-bot-for-hashnode-articles-christmashackathon) - Hashbot: A Twitter Bot For Hashnode
+  [A Twitter Bot For Hashnode](https://blog.yuvraj.tech/hashbot-a-twitter-bot-for-hashnode-articles-christmashackathon) - Hashbot: A Twitter Bot For Hashnode
   
   [Autocomplete your CloudFormation Resources in VS Code](https://dannys.cloud/autocomplete-cloudformation-resources-vs-code) - Autocomplete your CloudFormation Resources in VS Code
-
-  [AI Voice Recognition app](https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup) - AI Voice Recognition app
 
   [Alkatraz](https://trendster.hashnode.dev/alkatraz-an-app-that-helps-you-to-reach-your-goals-by-managing-your-habits-harperdb-hackathon) - Alkatraz: An app that helps you to Reach your goals by managing your Habits
 
