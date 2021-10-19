@@ -142,6 +142,8 @@
   
   [MeowForms](https://blog.gauravtewari.xyz/introducing-meowforms-build-custom-forms-with-no-backend-code-for-free-my-first-saas-product) - Build Custom forms with no backend code for free
 
+  [Muvies](https://dev.to/hackmamba/building-a-movies-app-with-vue-auth0-and-cloudinary-4g7c) - A movies app built using Vue, Auth0, & Cloudinary
+
   [Noteli](https://sahilpabale.me/introducing-noteli-the-note-taking-cli-tool) - The CLI Tool to Start Taking Notes with Auth0 Security🚀
 
   [Opentek](https://anirudhpanda.hashnode.dev/introducing-opentek) - Bye! Bye! to all the tiring Google Searches
