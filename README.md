@@ -126,7 +126,7 @@
 
   [Kuberam](https://blog.rohitjakhar.me/kuberam-jetpack-app) - Manage all your transactions
 
-  [Jekyll](https://genicsblog.com/introducing-jekyllex-android-app) - The easiest way to manage a Jekyll blog from an Android device
+  [JekyllEx](https://genicsblog.com/introducing-jekyllex-android-app) - The easiest way to manage a Jekyll blog from an Android device
 
   [Litic](https://learn.techseo.blog/litic) - Litic: Analyse your web project and get insights about SEO, accessibility, security, and best practices
 
