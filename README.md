@@ -1,16 +1,18 @@
 # awesome-hackathon-projects 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/olanetsoft-approved-brightgreen.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![GitHub issues](https://img.shields.io/github/issues/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://github.com/Olanetsoft/awesome-hackathon-projects/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/forks/Olanetsoft/web3terms)
+[![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects)
+[![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/awesome-hackathon-projects?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-hackathon-projects)
+[![Twitter Follow](https://img.shields.io/twitter/follow/olanetsoft.svg?style=social)](https://twitter.com/olanetsoft) 
 
 ![Hackathon Image](https://media.istockphoto.com/vectors/hackathlon-vector-illustration-tiny-programmers-competition-person-vector-id1189873851?k=6&m=1189873851&s=612x612&w=0&h=UQVDWFobVXHtcIy_1O7JUEjEodpYRFsaid6H-2Bhrbc=)<br/>
 [image credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fhackathon&psig=AOvVaw0DHshJpx-IrIcbZTln7rqF&ust=1609679264778000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCJDt-tyo_e0CFQAAAAAdAAAAABAD)
 
   <p>
-    <b>
-      This is a curated list of awesome hackathon project.<br/>
-      Developers from different parts of the world have developed a lot of amazing projects during the hackathon on their Hashnode powered blogs.<br/>
-      Projects gets updated daily.
-    </b>
+      Developers from different parts of the world have developed a lot of amazing projects during hackathon. This is a curated list of awesome hackathon project. 🏆 Projects gets updated daily 🏆
   </p>
   <p>
     <i>
@@ -18,7 +20,7 @@
     </i>
   </p>
   
-# Projects
+# Projects 💻
   
   [A Twitter Bot For Hashnode](https://blog.yuvraj.tech/hashbot-a-twitter-bot-for-hashnode-articles-christmashackathon) - Hashbot: A Twitter Bot For Hashnode
   
@@ -214,3 +216,13 @@
   
   [Web Scraping Application Using Laravel](https://folafola.hashnode.dev/creating-a-web-scraping-application-using-laravel?guid=c4aa1761-c7aa-459c-9c6b-00e80f2110db&deviceId=bef14081-b14b-4211-bc33-50811d08577b) - Web Scraping Application Using Laravel
  
+ 
+ # Thanks to all Contributors 💪 
+
+Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=Olanetsoft/awesome-hackathon-projects)](https://github.com/Olanetsoft/awesome-hackathon-projects/edit/develop/README.md)
+
+# Thanks to all Stargazers ⭐️
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/Olanetsoft/awesome-hackathon-projects?limit=25)](https://github.com/Olanetsoft/awesome-hackathon-projects)
