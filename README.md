@@ -1,7 +1,6 @@
 # awesome-hackathon-projects 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 [![GitHub issues](https://img.shields.io/github/issues/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://github.com/Olanetsoft/awesome-hackathon-projects/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/forks/Olanetsoft/web3terms)
 [![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects)
