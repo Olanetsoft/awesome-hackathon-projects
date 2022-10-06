@@ -109,7 +109,7 @@
 
  # Thanks to all Contributors 💪 
 
-Thanks a lot for spending your time helping Web3Terms Bot grow. Happy Hacking 🍻
+Thanks a lot for spending your time helping `Awesome Hackathon Project` grow. Happy Hacking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=Olanetsoft/awesome-hackathon-projects)](https://github.com/Olanetsoft/awesome-hackathon-projects/edit/develop/README.md)
 
