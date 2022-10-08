@@ -1,11 +1,11 @@
-# awesome-hackathon-projects 
+# awesome-hackathon-projects
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub issues](https://img.shields.io/github/issues/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://github.com/Olanetsoft/awesome-hackathon-projects/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/forks/Olanetsoft/web3terms)
 [![GitHub stars](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects?style=plastic)](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects)
 [![GitHub watchers](https://img.shields.io/github/watchers/Olanetsoft/awesome-hackathon-projects?style=plastic&label=Watch)](https://github.com/Olanetsoft/awesome-hackathon-projects)
-[![Twitter Follow](https://img.shields.io/twitter/follow/olanetsoft.svg?style=social)](https://twitter.com/olanetsoft) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/olanetsoft.svg?style=social)](https://twitter.com/olanetsoft)
 
 ![Hackathon Image](https://media.istockphoto.com/vectors/hackathlon-vector-illustration-tiny-programmers-competition-person-vector-id1189873851?k=6&m=1189873851&s=612x612&w=0&h=UQVDWFobVXHtcIy_1O7JUEjEodpYRFsaid6H-2Bhrbc=)<br/>
 [image credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fhackathon&psig=AOvVaw0DHshJpx-IrIcbZTln7rqF&ust=1609679264778000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCJDt-tyo_e0CFQAAAAAdAAAAABAD)
@@ -106,8 +106,9 @@
 | 83| [URL shortener and manager](https://hieudien.hashnode.dev/url-shortener-and-manager-with-clerk-x-nextjs-x-tailwindcss)| URL shortener and manager| [Đoàn Trọng Hiếu](https://github.com/hieudien)|      
 | 84| [VSCode Vercel](https://frenco.hashnode.dev/vscode-vercel-an-extension-for-your-favorite-code-editor)| An extension for your favorite code editor| [Frenco](https://frenco.dev/)|      
 | 85| [Xpro](https://hardik-blogs.hashnode.dev/how-i-made-xpro-a-next-generation-code-editor)| A Next-Generation Code Editor| [Hardik Kaushik](https://hashnode.com/@Hardikk2002)|      
+| 86| [Najibquiz](https://najibbala.hashnode.dev/quiz-maker-for-small-schools)| A simple quiz maker app| [Muhammad Najib Bala](https://github.com/NAJIB-B)|
 
- # Thanks to all Contributors 💪 
+# Thanks to all Contributors 💪
 
 Thanks a lot for spending your time helping `Awesome Hackathon Project` grow. Happy Hacking 🍻
 
