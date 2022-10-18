@@ -25,7 +25,7 @@
 | 1| [Alkatraz](https://trendster.hashnode.dev/alkatraz-an-app-that-helps-you-to-reach-your-goals-by-managing-your-habits-harperdb-hackathon)| An app that helps you to Reach your goals by managing your Habits| [Nishant Kumar](https://hashnode.com/@Trendster)|     
 | 2| [Analytics](https://amalshaji.hashnode.dev/amalytics-a-tiny-analytics-powered-by-harperdb)| A tiny analytics powered by HarperDB| [Amal Shaji](https://github.com/amalshaji)|     
 | 3| [Anko](https://blog.greenroots.info/anko-a-dads-attempt-to-make-the-daughter-fall-in-love-with-mathematics-cklkz9dic013qgos18evgd9cz)| A dad's attempt to make the daughter fall in love with mathematics| [Tapas Adhikary](https://github.com/atapas)|     
-| 4| [Annonymous feedback](https://unclebigbay.com/introducing-the-anonymous-feedback-platform-powered-by-the-chern-stack) | The Anonymous Feedback Platform| [Ayodele Samuel Adebayo](https://github.com/unclebay143)|     
+| 4| [Annonymous feedback](https://unclebigbay.com/introducing-the-anonymous-feedback-platform-powered-by-the-chern-stack) | The Anonymous Feedback Platform| [Ayodele Samuel Adebayo (unclebigbay)](https://github.com/unclebay143)|     
 | 5| [Anonion](https://prasanna-rkumar.hashnode.dev/anonion-get-unbiased-opinions-from-your-circle-anonymously) | Anonion: Get unbiased opinions from your circle anonymously| [Prasanna Kumar](https://github.com/prasanna-rkumar)|     
 | 6| [Assignment Hub](https://hellosagar.hashnode.dev/assignmenthub-an-app-to-manage-assignments-for-university-professors-aws-amplify-hackathon)| An App to manage assignments for university professors| [Sagar Khurana](https://hashnode.com/@hellosagar)|     
 | 7| [Aura](https://blog.abhinavrajesh.com/introducing-aura-see-your-mood-in-a-whole-new-light)| See your mood in a whole new light| [Abhinav Rajesh](https://github.com/AbhinavRajesh)|     
@@ -48,7 +48,7 @@
 | 24| [Dev Interviewer](https://brayanarrieta.hashnode.dev/introducing-dev-interviewer-a-website-to-share-your-experience-with-tech-interviews) | A website to share your experience with tech interviews| [ Brayan Arrieta Alfaro](https://github.com/brayanarrieta)|     
 | 25| [DevSpace](https://blog.rutikwankhade.dev/devspace-get-top-posts-from-the-best-developer-platforms) | Get top posts from the best developer platforms| [Rutik Wankhade](https://github.com/rutikwankhade)|     
 | 26| [Devcover](https://blog.jrgarciadev.com/devcover-easiest-way-to-generate-a-developer-portfolio) | Easiest way to generate a developer portfolio| [Junior Garcia](https://github.com/jrgarciadev)|     
-| 27| [Developer typing Game](https://unclebigbay.com/introducing-developer-typing-game-platform-powered-by-the-hern-stack) | Developer Typing Game Platform powered by the HERN Stack| [Ayodele Samuel Adebayo](https://github.com/unclebay143)|     
+| 27| [Developer typing Game](https://unclebigbay.com/introducing-developer-typing-game-platform-powered-by-the-hern-stack) | Developer Typing Game Platform powered by the HERN Stack| [Ayodele Samuel Adebayo (unclebigbay)](https://github.com/unclebay143)|     
 | 28| [E-voting with Qrcode](https://tijan.hashnode.dev/e-voting-with-qrcode)| E-voting with Qrcode| [Tijan Ayomide](https://www.github.com/TijanAyo)|     
 | 29| [EBB](https://liyasthomas.hashnode.dev/ebb-feel-life-again-from-a-new-perspective-ckk5ac73708f6hls10uoj1nc5) | Feel life again from a new perspective| [Liyas Thomas](https://github.com/liyasthomas)|     
 | 30| [Easy Paste](https://blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes) | Easiest way to create and share code pastes | [Usman Sabuwala](https://usman-s.me/)|     
@@ -106,7 +106,8 @@
 | 82| [Try Shape](https://blog.greenroots.info/introducing-tryshape-give-your-creativity-a-shape)| Give Your Creativity a Shape| [Tapas Adhikary](https://github.com/atapas)|      
 | 83| [URL shortener and manager](https://hieudien.hashnode.dev/url-shortener-and-manager-with-clerk-x-nextjs-x-tailwindcss)| URL shortener and manager| [Đoàn Trọng Hiếu](https://github.com/hieudien)|      
 | 84| [VSCode Vercel](https://frenco.hashnode.dev/vscode-vercel-an-extension-for-your-favorite-code-editor)| An extension for your favorite code editor| [Frenco](https://frenco.dev/)|      
-| 85| [Xpro](https://hardik-blogs.hashnode.dev/how-i-made-xpro-a-next-generation-code-editor)| A Next-Generation Code Editor| [Hardik Kaushik](https://hashnode.com/@Hardikk2002)|      
+| 85| [Xpro](https://hardik-blogs.hashnode.dev/how-i-made-xpro-a-next-generation-code-editor)| A Next-Generation Code Editor| [Hardik Kaushik](https://hashnode.com/@Hardikk2002)|  
+| 85| [The Advice Hub](https://unclebigbay.com/introducing-the-advice-hub)| A Centralized Advice Center for Developers | [Ayodele Samuel Adebayo (unclebigbay)](https://hashnode.com/@unclebigbay)|  
 
 
 # Thanks to all Contributors 💪
