@@ -107,6 +107,7 @@
 | 83| [URL shortener and manager](https://hieudien.hashnode.dev/url-shortener-and-manager-with-clerk-x-nextjs-x-tailwindcss)| URL shortener and manager| [Đoàn Trọng Hiếu](https://github.com/hieudien)|      
 | 84| [VSCode Vercel](https://frenco.hashnode.dev/vscode-vercel-an-extension-for-your-favorite-code-editor)| An extension for your favorite code editor| [Frenco](https://frenco.dev/)|      
 | 85| [Xpro](https://hardik-blogs.hashnode.dev/how-i-made-xpro-a-next-generation-code-editor)| A Next-Generation Code Editor| [Hardik Kaushik](https://hashnode.com/@Hardikk2002)|      
+| 86| [Alkatraz](https://trendster.hashnode.dev/alkatraz-an-app-that-helps-you-to-reach-your-goals-by-managing-your-habits-harperdb-hackathon)| An App that monitors your daily habits.| [NISHANT Kumar](https://hashnode.com/@Trendster)|
 
 
 # Thanks to all Contributors 💪
