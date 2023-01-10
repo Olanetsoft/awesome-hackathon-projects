@@ -108,6 +108,8 @@
 | 84| [VSCode Vercel](https://frenco.hashnode.dev/vscode-vercel-an-extension-for-your-favorite-code-editor)| An extension for your favorite code editor| [Frenco](https://frenco.dev/)|      
 | 85| [Xpro](https://hardik-blogs.hashnode.dev/how-i-made-xpro-a-next-generation-code-editor)| A Next-Generation Code Editor| [Hardik Kaushik](https://hashnode.com/@Hardikk2002)|  
 | 86| [The Advice Hub](https://unclebigbay.com/introducing-the-advice-hub)| A Centralized Advice Center for Developers | [Ayodele Samuel Adebayo (unclebigbay)](https://hashnode.com/@unclebigbay)|  
+| 87| [Lootle](https://blog.aashish-panthi.com.np/introducing-lootle)| A price tracker for products on Amazon, Flipkart | [Aashish Panthi](https://hashnode.com/@aashishpanthi)|
+| 88| [Mailsbe](https://blog.reactplay.io/mailsbe-an-email-status-finder)| Find if your email has been read or not | [Aashish Panthi](https://github.com/aashishpanthi)| 
 
 
 # Thanks to all Contributors 💪
