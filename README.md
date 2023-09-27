@@ -29,7 +29,7 @@
 | 5| [Anonion](https://prasanna-rkumar.hashnode.dev/anonion-get-unbiased-opinions-from-your-circle-anonymously) | Anonion: Get unbiased opinions from your circle anonymously| [Prasanna Kumar](https://github.com/prasanna-rkumar)|     
 | 6| [Assignment Hub](https://hellosagar.hashnode.dev/assignmenthub-an-app-to-manage-assignments-for-university-professors-aws-amplify-hackathon)| An App to manage assignments for university professors| [Sagar Khurana](https://hashnode.com/@hellosagar)|     
 | 7| [Aura](https://blog.abhinavrajesh.com/introducing-aura-see-your-mood-in-a-whole-new-light)| See your mood in a whole new light| [Abhinav Rajesh](https://github.com/AbhinavRajesh)|     
-| 8| [Autocomplete your CloudFormation Resources in VS Code](https://dannys.cloud/autocomplete-cloudformation-resources-vs-code)| Autocomplete your CloudFormation Resources in VS Code| [Danny Steenman](https://towardsthecloud.com/author/dannysteenman)|     
+| 8| [Autocomplete your CloudFormation Resources in VS Code](https://towardsthecloud.com/autocomplete-cloudformation-resources-vscode)| Autocomplete your CloudFormation Resources in VS Code| [Danny Steenman](https://towardsthecloud.com/author/dannysteenman)|     
 | 9| [Awesome Photoshop in 6 Days](https://emmorais.hashnode.dev/edite-your-new-photoshop)| How I Built My Own and Awesome Photoshop in 6 Days| [Esaú Morais](https://github.com/esau-morais/)|     
 | 10| [Awesome Tech blogs Platform](https://denic.hashnode.dev/awesome-tech-blogs-platform) | Awesome Tech blogs Platform| [Marko Denic](https://github.com/markodenic)|     
 | 11| [Calmly](https://geeky-chakri.hashnode.dev/calmly-christmas-hackathon-project-1) | A Simple Relaxation App| [Geeky Chakri](https://hashnode.com/@GeekyChakri)|     
