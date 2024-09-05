@@ -110,6 +110,9 @@
 | 86| [The Advice Hub](https://unclebigbay.com/introducing-the-advice-hub)| A Centralized Advice Center for Developers | [Ayodele Samuel Adebayo (unclebigbay)](https://hashnode.com/@unclebigbay)|  
 | 87| [Lootle](https://blog.aashish-panthi.com.np/introducing-lootle)| A price tracker for products on Amazon, Flipkart | [Aashish Panthi](https://hashnode.com/@aashishpanthi)|
 | 88| [Mailsbe](https://blog.reactplay.io/mailsbe-an-email-status-finder)| Find if your email has been read or not | [Aashish Panthi](https://github.com/aashishpanthi)| 
+| 89 | [HealthPal](https://github.com/healthpal/healthpal) | A mobile app to track daily health metrics and offer personalized tips | [John Doe](https://github.com/johndoe) |
+| 90 | [EcoFriend](https://github.com/ecofriend/ecofriend) | An app to track carbon footprints and suggest greener lifestyle choices | [Jane Smith](https://github.com/janesmith) |
+
 
 
 # Thanks to all Contributors 💪
