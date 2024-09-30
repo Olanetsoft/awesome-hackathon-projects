@@ -106,9 +106,7 @@
 | 82| [Trading Bot](https://lo-victoria.com/how-i-built-my-first-trading-bot-for-hashnodes-hackathon)| Trading Bot| [Victoria Lo](https://lo-victoria.com/)|  
 | 83| [Try Shape](https://blog.greenroots.info/introducing-tryshape-give-your-creativity-a-shape)| Give Your Creativity a Shape| [Tapas Adhikary](https://github.com/atapas)|  
 | 84| [URL shortener and manager](https://hieudien.hashnode.dev/url-shortener-and-manager-with-clerk-x-nextjs-x-tailwindcss)| URL shortener and manager| [Đoàn Trọng Hiếu](https://github.com/hieudien)|
-
 | 85| [veri-connect](https://github.com/junseom/Veri-Connect)| An on-chain business card service with badges that verify your on-chain record| [Sooyoung Lee](https://github.com/swimmiee)|
-
 | 86| [VSCode Vercel](https://frenco.hashnode.dev/vscode-vercel-an-extension-for-your-favorite-code-editor)| An extension for your favorite code editor| [Frenco](https://frenco.dev/)|  
 | 87| [Xpro](https://hardik-blogs.hashnode.dev/how-i-made-xpro-a-next-generation-code-editor)| A Next-Generation Code Editor| [Hardik Kaushik](https://hashnode.com/@Hardikk2002)|  
 | 88| [The Advice Hub](https://unclebigbay.com/introducing-the-advice-hub)| A Centralized Advice Center for Developers | [Ayodele Samuel Adebayo (unclebigbay)](https://hashnode.com/@unclebigbay)|  
