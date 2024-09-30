@@ -64,9 +64,7 @@
 | 40| [Hashbot](https://blog.yuvraj.tech/hashbot-a-twitter-bot-for-hashnode-articles-christmashackathon)| A Twitter Bot For Hashnode| [Yuvraj Singh Jadon](https://github.com/yuvraajsj18)| 
 | 41| [Hashnode to Twitter](https://geekysrm.hashnode.dev/introducing-hashnode-to-twitter) | Post bite-sized tweets of your Hashnode blog post to increase reach| [Soumya Ranjan Mohanty](https://soumya.dev/)|
 | 42| [Hobbit Hole](https://under-engineered.hashnode.dev/hobbithole-your-personal-habit-tracker-with-friends) | Your personal habit tracker with friends!| [Ankeet Maini](https://github.com/ankeetmaini)|
-
 | 43| [Hodl Habits](https://github.com/apps-camelot/HodlHabits) | Stake tokens to join, complete your habits, and earn rewards. Slip up, and you lose a little.| [Jasso Zuniga](https://github.com/Jassozng)|
-
 | 44| [Image & Video Background Removal using Deep Learning](https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning) | Image & Video Background Removal using Deep Learning| [ Nisarg Kapkar](https://github.com/Nkap23)|  
 | 45| [Image Processing - Separating RGB pixels](https://msameeruddin.hashnode.dev/image-processing-separating-rgb-pixels) | Image Processing: Separating RGB pixels | [ Mohammed Sameeruddin](https://github.com/msameeruddin)|  
 | 46| [JekyllEx](https://genicsblog.com/introducing-jekyllex-android-app) | The easiest way to manage a Jekyll blog from an Android device| [Gourav Khunger](https://github.com/gouravkhunger)|  
