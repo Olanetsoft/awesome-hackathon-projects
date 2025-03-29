@@ -112,6 +112,7 @@
 | 88| [The Advice Hub](https://unclebigbay.com/introducing-the-advice-hub)| A Centralized Advice Center for Developers | [Ayodele Samuel Adebayo (unclebigbay)](https://hashnode.com/@unclebigbay)|  
 | 89| [Lootle](https://blog.aashish-panthi.com.np/introducing-lootle)| A price tracker for products on Amazon, Flipkart | [Aashish Panthi](https://hashnode.com/@aashishpanthi)|
 | 90| [Mailsbe](https://blog.reactplay.io/mailsbe-an-email-status-finder)| Find if your email has been read or not | [Aashish Panthi](https://github.com/aashishpanthi)|
+| 91| [DevOps Meets Creativity](https://www.javanile.org/hackathon/)| Build awesome and creative cli tool for DevOps | [Franceasco Bianco](https://github.com/francescobianco)|
 
 # Thanks to all Contributors 💪
 
