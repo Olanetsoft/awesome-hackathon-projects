@@ -113,7 +113,7 @@
 | 89| [Lootle](https://blog.aashish-panthi.com.np/introducing-lootle)| A price tracker for products on Amazon, Flipkart | [Aashish Panthi](https://hashnode.com/@aashishpanthi)|
 | 90| [Mailsbe](https://blog.reactplay.io/mailsbe-an-email-status-finder)| Find if your email has been read or not | [Aashish Panthi](https://github.com/aashishpanthi)|
 | 91| [DevOps Meets Creativity](https://www.javanile.org/hackathon/)| Build awesome and creative cli tool for DevOps | [Franceasco Bianco](https://github.com/francescobianco)|
-| 92| [Equit.io](https://devpost.com/software/equit-io?_gl=1*tg8qdo*_gcl_au*MTU0NzY1NTI3My4xNzQwMjMzODk0*_ga*MTIzOTIwOTQzOC4xNzQwMjMzODk0*_ga_0YHJK3Y10M*MTc0NDA0MTY1MC4xMy4xLjE3NDQwNDUwODcuMC4wLjA.)| Dyslexia-Friendly Reading Tool | [Junna Park](https://github.com/jjpp43) [Ardi Ahmed](https://github.com/ardiahm)|
+| 92| [Equit.io](https://devpost.com/software/equit-io?_gl=1*tg8qdo*_gcl_au*MTU0NzY1NTI3My4xNzQwMjMzODk0*_ga*MTIzOTIwOTQzOC4xNzQwMjMzODk0*_ga_0YHJK3Y10M*MTc0NDA0MTY1MC4xMy4xLjE3NDQwNDUwODcuMC4wLjA.)| Dyslexia-Friendly Reading Tool | [Junna Park](https://github.com/jjpp43)<br> [Ardi Ahmed](https://github.com/ardiahm)|
 
 # Thanks to all Contributors 💪
 
