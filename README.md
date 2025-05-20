@@ -11,11 +11,12 @@
 [image credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fhackathon&psig=AOvVaw0DHshJpx-IrIcbZTln7rqF&ust=1609679264778000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCJDt-tyo_e0CFQAAAAAdAAAAABAD)
 
   <p>
-      Developers from different parts of the world have developed a lot of amazing projects during hackathon. This is a curated list of awesome hackathon project. 🏆 Projects gets updated daily 🏆
+      Developers from different parts of the world have developed a lot of amazing projects during hackathons. This is a curated list of awesome hackathon projects. 🏆 Projects get updated daily 🏆
   </p>
   <p>
     <i>
-      Want to contribute with some hackathon projects ? Awesome! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing.
+      Want to contribute with some hackathon projects? Awesome! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing. 
+      Organizing a hackathon? Sweet! Check out <a href="https://github.com/dribdat/awesome-hackathon">awesome-hackathon</a> for community tips.
     </i>
   </p>
   
