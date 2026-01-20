@@ -47,7 +47,7 @@
 | 22| [Custom QR Codes](https://divyaxavier.hashnode.dev/code-an-app-that-could-create-custom-qr-codes-for-free-my-christmas-hackathon-project) | Create custom QR Codes | [Divya Xavier](https://hashnode.com/@divyaxavier) |     
 | 23| [DeepLink](https://blog.hrithwik.me/i-created-a-deep-linking-tech-for-youtube-influencers-and-marketeers) | Deep Linking Tech for YouTube Influencers and Marketeers| [Hrithwik Bharadwaj](https://github.com/HrithwikBharadwaj)|     
 | 24| [Dev Interviewer](https://brayanarrieta.hashnode.dev/introducing-dev-interviewer-a-website-to-share-your-experience-with-tech-interviews) | A website to share your experience with tech interviews| [ Brayan Arrieta Alfaro](https://github.com/brayanarrieta)|     
-| 25| [DevSpace]() | Get top posts from the best developer platforms| [Rutik Wankhade](https://github.com/rutikwankhade)|     
+| 25| DevSpace | Get top posts from the best developer platforms| [Rutik Wankhade](https://github.com/rutikwankhade)|     
 | 26| [Devcover](https://blog.jrgarciadev.com/devcover-easiest-way-to-generate-a-developer-portfolio) | Easiest way to generate a developer portfolio| [Junior Garcia](https://github.com/jrgarciadev)|     
 | 27| [Developer typing Game](https://unclebigbay.com/introducing-developer-typing-game-platform-powered-by-the-hern-stack) | Developer Typing Game Platform powered by the HERN Stack| [Ayodele Samuel Adebayo (unclebigbay)](https://github.com/unclebay143)|     
 | 28| [E-voting with Qrcode](https://tijan.hashnode.dev/e-voting-with-qrcode)| E-voting with Qrcode| [Tijan Ayomide](https://www.github.com/TijanAyo)|     
